@@ -1,0 +1,84 @@
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 250px;
+    height: 140px;
+    border: 5px solid white;
+}#heading{
+    display: flex;
+    color: rgba(116, 171, 244, 0.702);
+    font-style: normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    font-size:xxx-large;
+}
+.form-table{
+    background-color: rgba(247, 132, 103, 0.821);
+    width: 400px;
+    height: 240px;
+    padding: 40px;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px 5px  rgba(204, 235, 226, 0.549) 
+}
+.author-location{
+    margin-top: 15px;
+}
+.chooseFile{
+    width: 300px;
+    margin-bottom: 15px;
+}.bttn{
+    width: 100px;
+}
+.author{
+    float: left;
+    width: 300px;
+    height: 20px;
+    margin-top: 10px;
+    border-color: rgb(191, 186, 186);
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+.location{
+    float: left;
+    width: 300px;
+    padding-left: 10px;
+    height: 20px;
+    margin-top: 10px;
+    border-color: rgb(191, 186, 186);
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.des{
+    width: 400px;
+    width: 300px;
+    padding-left: 10px;
+    height: 20px;
+    margin-top: 10px;
+    border-color: rgb(191, 186, 186);
+
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.post-button{
+    display: flex;
+    color: rgb(27, 26, 26);
+    width: 130px;
+    margin-top: 10px;
+    margin-left: 140px;
+    padding-top: auto;
+    height: 30px;
+    border-radius: 12px;
+    justify-content: center;
+    font-style: none;
+}
+
+
+    .post-button:hover{
+        background-color: rgb(169, 228, 160);
+    }

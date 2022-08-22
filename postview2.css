@@ -1,0 +1,56 @@
+.container{
+    width: 400px;
+    height:auto;
+    display: block;
+    margin: auto;
+   
+}
+.name{
+    margin-left: 10px;
+}
+.post{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin: 20px 0px;
+    border-radius: 5px;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.user-description{
+    margin: 10px 5px;
+}
+.date{
+    display: inline-block;
+    /* flex-direction: column; */
+    margin-left: 300px;
+}
+.heart{
+   /* position: absolute;
+   left: 33vw; */
+   display: inline-block;
+   margin-right: auto;
+   float: left;
+   margin-left:  10px;
+   /* padding-right:  100px ; */
+   
+}
+.rocket{
+    /* position: absolute;
+    left: 35vw; */
+    margin: 0px 20px;
+    padding: 0px 20px ;
+}
+.dots{
+    float: right;
+}
+/* .user-image{
+    
+} */
+.location{
+    color: grey;
+   margin-right: 310px;
+  
+ 
+   
+}
